@@ -1,4 +1,4 @@
-
+nav {
 body {
 	font-size: 20px;
 	text-decoration: none;
@@ -72,7 +72,7 @@ p:hover {
 	transition: all 2s ease-in-out;
 }
 
-
+tr5{
 .tr-5{text-decoration: none;
 	color: red;
 	transition: all 2s ease-in-out;
@@ -82,6 +82,8 @@ p:hover {
 	font-size: 100px;
 
 }
+}
+tr6{
 
 .tr-6{text-decoration: none;
 margin-right: 60px;
@@ -94,4 +96,6 @@ transition: all 1s ease-in;
 	 margin-left:  60px;
 	 transition: all 1s ease-in;
 
+}
+}
 }
